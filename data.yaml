@@ -1,0 +1,6 @@
+train: C:\Users\chedu\Downloads\Telegram Desktop\OD.v7i.yolov8\train
+val: C:\Users\chedu\Downloads\Telegram Desktop\OD.v7i.yolov8\valid
+test: C:\Users\chedu\Downloads\Telegram Desktop\OD.v7i.yolov8\test
+
+nc: 4
+names: ['bicycle', 'pedestrian', 'scooter', 'vehicle']
